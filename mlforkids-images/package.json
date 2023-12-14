@@ -29,7 +29,7 @@
     "async": "2.6.4",
     "file-type": "16.5.4",
     "gm": "1.25.0",
-    "ibm-cos-sdk": "1.12.2",
+    "ibm-cos-sdk": "1.13.2",
     "openwhisk": "3.21.7",
     "request": "2.88.2",
     "tmp": "0.2.1"
