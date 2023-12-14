@@ -71,7 +71,7 @@
     "gulp-download2": "1.1.0",
     "gulp-htmlmin": "5.0.1",
     "gulp-jsonminify": "1.1.0",
-    "gulp-mocha": "8.0.0",
+    "gulp-mocha": "10.0.0",
     "gulp-ng-annotate": "2.1.0",
     "gulp-rename": "2.0.0",
     "gulp-sourcemaps": "3.0.0",
